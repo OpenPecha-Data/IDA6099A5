@@ -1,16 +1,17 @@
-id: opecha:P007011
+id: P007011
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2545
   title: བླ་མའི་ཡང་ཏིག་ལས་གཉིས་ཀའི་ཡང་ཡིག་ཀྱི་རྣམ་པར་བཤད་པ་ཉི་མའི་སྣང་བ
-  volume:
+  author: ''
+  volumes:
     25efdc247d3e4fc7bd185afc808ed48a:
       image_group_id: I1CZ2720
       title: Volume 1 of bla ma'i yang tig las gnyis ka'i yang yig kyi rnam par bshad
         pa nyi ma'i snang ba
       volume_number: 1
       total_pages: 250
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བླ་མའི་ཡང་ཏིག་ལས་གཉིས་ཀའི་ཡང་ཡིག་ཀྱི་རྣམ་པར་བཤད་པ་ཉི་མའི་སྣང་བ
   author: ''
